@@ -1,11 +1,11 @@
-main.class#job{
+.class{
 	width:150px;
 	height:150px;
 	background-color: #000000 ;
 }
 
-p.hello-accio{
-	color: #ffffff;
+.hello-accio{
+	color: white ;
 	margin-left:32px ;
 	padding: 10px ;
 /* 	padding-left: 10px ;
